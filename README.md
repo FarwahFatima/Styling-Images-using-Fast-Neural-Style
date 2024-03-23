@@ -5,7 +5,7 @@ In the project utilize pretrained models in PyTorch for image styling, a techniq
 ## Image Selected: 
 ![Title screen](https://github.com/FarwahFatima/Styling-Images-using-Fast-Neural-Style/blob/main/image_select.PNG)
 
-## Image Resized:
+## Image Stylized:
 ![Title screen](https://github.com/FarwahFatima/Styling-Images-using-Fast-Neural-Style/blob/main/image_resized.PNG)
 
 ## Explore: 
